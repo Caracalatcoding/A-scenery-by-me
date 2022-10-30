@@ -1,0 +1,59 @@
+body {
+  background: linear-gradient(#f542da 25%, #a442f5 50%, #5a42f5 75%);
+  text-align: center;
+  padding: 10%;
+}
+#greeting-banner{
+  border: 10px dotted blue;
+  width 50%;
+  padding: 5%;
+  text-align: center;
+  background-color: lightcoral;
+}
+#greeting{
+  width: 90%;
+  height 25%;
+  background-color: blue;
+  font-family: Tahoma;
+  font-weight: bold;
+  font-size: 24pt;
+  color: white;
+}
+#description{
+  color: white;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 30pt;
+}
+#picture{
+  padding: 50%;
+  height: 500px;
+  width: 100%;
+  background-color: black;
+  padding: 1%;
+}
+#moon{
+  border-radius: 90%;
+  height: 200px;
+  width: 200px;
+  padding: 50px;
+  background-color: white;
+}
+#eye{
+  height: 100px;
+  width: 100px;
+}
+#smile{
+  height: 100px;
+  width: 200px
+}
+#land{
+padding: -100px;
+  height: 100px;
+  width: 100%;
+  background-color: white;
+}
+#shadow{
+  height: 100px;
+  width: 500px;
+}
